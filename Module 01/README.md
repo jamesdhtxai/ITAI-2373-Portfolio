@@ -1,1 +1,1 @@
-Module 01 – Personal Introduction and Goals for AI in Real-World Systems
+In this first module, I outlined my motivations for entering the AI space, drawing from my background in managing research infrastructure. I reflected on how AI can enhance decision-making in operational contexts and began to frame AI not just as a technology, but as a tool for human-scale problem solving.
